@@ -58,7 +58,7 @@ int main()
 			}
 			else
 			{
-				number += 1;
+				number ++;
 				arr[i][j] = number;
 			}
 		}
